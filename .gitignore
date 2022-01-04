@@ -1,0 +1,3 @@
+# Project exclude paths
+/cmake-build-cmake_qt/
+/cmake-build-debug/
